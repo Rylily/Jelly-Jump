@@ -1,2 +1,1 @@
-# Jelly-Jump
- Unity project written in C#
+Jelly Jump is a platform game where you control the move the character left and right using the arrow keys. To jump between the different platforms, use space. If you fall down its game over. Have fun!
